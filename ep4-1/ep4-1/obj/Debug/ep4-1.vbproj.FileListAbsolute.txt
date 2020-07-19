@@ -1,0 +1,11 @@
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\bin\Debug\ep4-1.exe.config
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\bin\Debug\ep4-1.exe
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\bin\Debug\ep4-1.pdb
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\bin\Debug\ep4-1.xml
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\ep4-1.vbprojResolveAssemblyReference.cache
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\WindowsApplication1.Form1.resources
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\WindowsApplication1.Resources.resources
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\ep4-1.vbproj.GenerateResource.Cache
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\ep4-1.exe
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\ep4-1.xml
+D:\นายอาทิตย์ สุขสาเกษ\ep4-1\ep4-1\obj\Debug\ep4-1.pdb

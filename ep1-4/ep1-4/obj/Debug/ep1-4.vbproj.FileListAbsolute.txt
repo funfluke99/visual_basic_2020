@@ -1,0 +1,10 @@
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\bin\Debug\ep1-4.exe.config
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\bin\Debug\ep1-4.exe
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\bin\Debug\ep1-4.pdb
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\bin\Debug\ep1-4.xml
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\obj\Debug\WindowsApplication1.Form1.resources
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\obj\Debug\WindowsApplication1.Resources.resources
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\obj\Debug\ep1-4.vbproj.GenerateResource.Cache
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\obj\Debug\ep1-4.exe
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\obj\Debug\ep1-4.xml
+D:\นายอาทิตย์ สุขสาเกษ\ep1-4\ep1-4\obj\Debug\ep1-4.pdb

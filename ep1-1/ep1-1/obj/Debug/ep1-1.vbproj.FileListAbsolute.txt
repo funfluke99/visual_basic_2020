@@ -1,0 +1,11 @@
+C:\Users\Lenovo-28\AppData\Local\Temporary Projects\ep1-1\bin\Debug\ep1-1.exe.config
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\bin\Debug\ep1-1.exe.config
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\bin\Debug\ep1-1.exe
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\bin\Debug\ep1-1.pdb
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\bin\Debug\ep1-1.xml
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\obj\Debug\ep1_1.Form1.resources
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\obj\Debug\ep1_1.Resources.resources
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\obj\Debug\ep1-1.vbproj.GenerateResource.Cache
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\obj\Debug\ep1-1.exe
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\obj\Debug\ep1-1.xml
+D:\นายอาทิตย์ สุขสาเกษ\ep1-1\ep1-1\obj\Debug\ep1-1.pdb
